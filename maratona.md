@@ -15,3 +15,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] A Noiva Cadaver
 - [ ] Coraline
+- [ ] Shrek
+- [ ] Como Treinar o Seu Dragâo
