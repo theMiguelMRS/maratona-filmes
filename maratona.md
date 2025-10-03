@@ -17,4 +17,7 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] De Volta Para O Futuro 3 
 - [ ] Shrek
 - [ ] Como Treinar o Seu Dragâo
-
+- [ ] A Noiva Cadaver
+- [ ] Coraline
+- [ ] Shrek
+- [ ] Como Treinar o Seu Dragâo
