@@ -15,3 +15,6 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Harry Potter
 - [ ] De Volta Para O Futuro 3 
+- [ ] Shrek
+- [ ] Como Treinar o Seu Dragâo
+
